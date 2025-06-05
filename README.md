@@ -87,12 +87,15 @@ Como se puede ver, la aplicación es fácil de navegar ya que se hace uso de un 
 
 ## PARTE II: Caso de estudio: Evaluación de un film commission como atractivo turístico de GRX
 
+### a)
+
 Para la primera sección de esta parte, vamos a tomar la página web de la comisión de cine de Salamanca. En primer lugar la página web está cargada de imágenes que tardan hasta 3 segundos en cargar lo cual es bastante negativo, por si eso fuera poco, la jerarquía de los contenidos no está del todo balanceada, el lado izquierdo de la página está cargado de imágenes mientras que el lado derecho de esta está en blanco sin contenido alguno que mostrar. En la esquina superior derecha se muestra una opción de cargar la página en inglés sin embargo si se hace click en dicha opción la página no llega a cargar nunca las imágenes y el texto que si llega a cargarse se mantiene en español, volviendo la app menos accesible al solo poder ser comprendida por personas que hablen español. Si bien la página puede agobiar de la cantidad de contenidos que presenta a priori, todos ellos pueden accederse como máximo en 3 clicks con lo cual a ese respecto está bastante bien. Por lo que si bien no es del todo intuitiva, tampoco es imposible navegar por ella. En la página principal hay noticias, pero creo que tienen demasiado texto, aunque no se muestre la noticia por completo y que si se van a mostrar varias, lo mejor sería poner solo el titular (acompañada quizá de menos texto del que aparece en la versión actual) y ya que si el usuario quiere leer la noticia completa, que haga click en ella. 
 
 
 
 La aplicación no se encuentra disponible para móvil como aplicación móvil, pero sí como página web y es diferente de la versión de desktop. Esta versión tarda menos en cargar las imágenes (algo más de 1 segundo), pero en este caso solo muestra 2 noticias por lo que me sigue pareciendo algo excesivo y poco optimizado. En cualquier caso está bastante bien desde el punto de vista de la UX que solo se muestren dos noticias a través de scroll, para no agobiar así al usuario al ser la pantalla además más pequeña. Una vez más creo se debería haber incluido menos texto en las mismas y solo haber mostrado la noticia completa si se hacía click en las mismas.
 
+### b)
 
 Para el segundo apartado, lo compararemos con la página web de la comisión de cine de la ciudad de Granada desde un punto de vista de diseño y organización de tareas. Ya desde un primer vistazo podemos ver que la página de Granada es algo menos agobiante. Y los contenidos están mejor repartidos, no hay zonas  en blanco ni zonas muy recargadas, por otro lado, la página se traduce adecuadamente cuando se hace click en la opción EN. No obstante, cabe destacar que en una de las secciones de más abajo, hay imágenes que no tienen el mismo alto que el resto y la sección no es simétrica si comparamos el lado izquierdo con el derecho, aunque todavía haya imágenes por ver a la izquierda que se puedan ver al hacer click en la flecha izquierda.
 
@@ -100,15 +103,44 @@ Para el segundo apartado, lo compararemos con la página web de la comisión de 
 
 Como punto negativo de esta página web con respecto a la de Salamanca es que al no estar los menús tan recargados de información, existen contenidos que si se quiere acceder a ellos, se deben realizar más de 3 clicks.
 
+
+### c)
+
 Para el tercer punto he creado un Scope Canvas para hacer una propuesta de valor para fomentar el turismo local a través del cine en la localidad de Medina Sidonia.
 
+![Scope Canvas](https://github.com/user-attachments/assets/258c05aa-0131-45cc-b4e8-1e34c1d459b8)
 
 
 A posteriori, he diseñado el prototipo a papel de la aplicación móvil donde se puede ver una sección que hace de menú principal donde se muestra el logo de la aplicación, un botón para encontrar más información y un bottom navigation bar de 5 elementos, siendo el del medio el que devuelve al usuario al menú principal, el de la izquierda el de la guía profesional para contactar con diferentes tipos de profesionales del mundo del cine, el segundo icono por la izquierda redirige al usuario a los diferentes lugares que podrían ser atractivos desde un punto de vista cinematográfico en la localidad de Medina Sidonia. Si se hace click en uno de ellos, se muestra dicha localización con más detalle. Por otro lado en el segundo icono por la derecha se puede acceder a una sección de noticias relacionadas con el mundo del cine en Medina Sidonia y si se hace click en una noticia, la aplicación redirige al usuario a la noticia completa. Finalmente para el último icono, el de la derecha del todo, muestra una página que muestra un listado con todas las películas y el material audiovisual en general que tuvo a Medina Sidonia como lugar de alguno de sus escenarios. Si se hace click en dicha película, se muestran detalles de la misma con la fecha de estreno o la sinopsis.
 
+![Sketch](https://github.com/user-attachments/assets/8c537eb3-366c-4cd2-a850-8dc5cc6c7888)
 
 
 Después de realizar el prototipo a papel, lleve a cabo el Wireframe donde todos los elementos se  muestran de forma más profesional  y fidedigna con respecto al producto final.
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/76ee41cb-d3c8-4e61-8fd2-51936d99aa70" width="30%" />
+  <img src="https://github.com/user-attachments/assets/d0cf4914-08fe-44fc-a6e6-9e4486039ef3" width="30%" />
+  <img src="https://github.com/user-attachments/assets/8cc07fd7-2b43-4d07-9650-659bad85e377" width="30%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0eff7876-c537-4b95-9713-30c4191f2c4b" width="30%" />
+  <img src="https://github.com/user-attachments/assets/3a364e2e-3677-41ce-beaf-9112f6e79a9b" width="30%" />
+  <img src="https://github.com/user-attachments/assets/9e10d018-8bc0-49c4-95a5-3be1ce185b63" width="30%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3cfde74c-bbe6-4954-af59-5a46ae4f6af2" width="30%" />
+  <img src="https://github.com/user-attachments/assets/3e72d4b5-3c82-4462-b2d1-9c98ce26c721" width="30%" />
+  <img src="https://github.com/user-attachments/assets/b2ed415a-6e44-4b83-a8df-af9f77555ce8" width="30%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/63976462-2a37-463b-ab02-6f940aea14b3" width="30%" />
+</p>
+
 
 
 Finalmente, hice el Hi-Fi que muestro a continuación, las animaciones y todo el contenido se pueden ver en el siguiente enlace: [Figma](https://www.figma.com/design/te0Ph2dXD9eDnbWpmLFFlk/Pr%C3%A1ctica-Final-DIU?node-id=0-1&t=r1eclwLDwI1Ko7VK-1)
@@ -136,6 +168,6 @@ Finalmente, hice el Hi-Fi que muestro a continuación, las animaciones y todo el
   <img src="https://github.com/user-attachments/assets/25494873-f398-41b4-96d7-d41215b61467" width="30%" />
 </p>
 
-
+### d)
 
 Como conclusión, estimo que hubiera sido bastante interesante poder haber entrevistado a profesionales del cine de la provincia de Cádiz y especialmente de Medina Sidonia para realizar la propuesta ya que siempre se enriquecen las propuestas si se cuenta con los usuarios y si se hace Design Thinking, en cualquier caso, esto no pudo ser así por falta de tiempo.
