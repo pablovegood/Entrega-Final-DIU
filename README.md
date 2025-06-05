@@ -43,7 +43,7 @@ Finalmente, mención especial merece la interfaz y todo el trabajo de Design Thi
   <img src="https://github.com/user-attachments/assets/703e13a3-7524-41ec-8d02-9f9b61f19127" width="22%">
   <img src="https://github.com/user-attachments/assets/1d7cdf4e-b128-4049-a6f0-a565410d7f7b" width="22%">
   <img src="https://github.com/user-attachments/assets/89da1a18-d6fe-4c47-869d-971d3c37d320" width="22%">
-  <img src="https://github.com/user-attachments/assets/df6dc34d-6453-4104-b867-b08955973fa3" width="22%">
+  <img src="https://github.com/user-attachments/assets/5b0651a8-da6d-47c5-91ce-4a2aeb4382d1" width="22%">
 </p>
 
 No solo no existe una paleta de colores consistente o las decisiones de navegación son más que cuestionables (no hay bottom navigation bar para acceder a los menús principales de esta) sino que además es poco intuitiva de usar y a grandes rasgos bastante desagradable a nivel estético. No obstante, gracias a cursar DIU, aprendí a enmendar el estropicio que había cometido. ¿Cómo? Pues siempre priorizando y pensando en el usuario. ¿Qué quiere y qué necesitará mi usuario o usuarios finales? En primer lugar diseñé personas de calidad, esto es así porque no me las inventé de cero sino que están altamente inspiradas en personas reales de mi entorno como mi abuela, mis padres o amigos.
@@ -56,10 +56,12 @@ Luego hice user journey maps para ver cómo reaccionaría estas personas en situ
 
 A posteriori hice un Capture Grid Map que señalaba las faltas de aplicaciones existentes que hubieran usado mis personas y como se podían mejorar o solucionar los fallos que existían de forma que mi aplicación no cometería los errores del pasado y sería una versión mejorada de todas ellas.
 
+![Captura de pantalla 2025-06-04 001311](https://github.com/user-attachments/assets/41eee44f-8da8-4407-a510-acd6bb890159)
 
 
 Además creé un moodboard, donde reflejé la estética de la aplicación Soter, que es la de la antigua Grecia ya que soter es el término en griego antiguo para auxilio que es de lo que va la aplicación, un sistema de alerta para personas mayores frente a caídas.
 
+![Captura de pantalla 2025-06-04 001515](https://github.com/user-attachments/assets/54288d2a-2743-4641-b05f-0d80496bb6f6)
 
 Una vez que había delimitado las funcionalidades que tendría mi aplicación debía priorizarlas, para ello usé una User/Task Matrix la cual es bastante efectiva ya que se puede ver de un vistazo que aspectos son más relevantes de desarrollar antes a través de la frecuencia con la que cada tipo de usuario de la aplicación la acabará utilizando.
 
@@ -112,33 +114,28 @@ Después de realizar el prototipo a papel, lleve a cabo el Wireframe donde todos
 Finalmente, hice el Hi-Fi que muestro a continuación, las animaciones y todo el contenido se pueden ver en el siguiente enlace: [Figma](https://www.figma.com/design/te0Ph2dXD9eDnbWpmLFFlk/Pr%C3%A1ctica-Final-DIU?node-id=0-1&t=r1eclwLDwI1Ko7VK-1)
 
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f11e89ca-b0c6-4463-8e52-cc8bd04950a3" width="30%" />
+  <img src="https://github.com/user-attachments/assets/24d0b775-7f0d-4e75-a94c-46edb0b46228" width="30%" />
+  <img src="https://github.com/user-attachments/assets/0c8b46a3-de0f-4d8f-a423-d521a0c2d63c" width="30%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e8b99614-b745-4da1-88f1-039f10b443ed" width="30%" />
+  <img src="https://github.com/user-attachments/assets/effe0bef-94d6-4cd2-bbfc-52dd7179b90d" width="30%" />
+  <img src="https://github.com/user-attachments/assets/aec30048-10e7-49ed-9828-b0995b41699b" width="30%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/78316e76-f291-41cb-aa10-f0669dd869fd" width="30%" />
+  <img src="https://github.com/user-attachments/assets/9cc11219-336d-40f5-af66-c40491c77246" width="30%" />
+  <img src="https://github.com/user-attachments/assets/f585378a-1dda-4a08-a472-5d46ac599ec5" width="30%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/25494873-f398-41b4-96d7-d41215b61467" width="30%" />
+</p>
+
 
 
 Como conclusión, estimo que hubiera sido bastante interesante poder haber entrevistado a profesionales del cine de la provincia de Cádiz y especialmente de Medina Sidonia para realizar la propuesta ya que siempre se enriquecen las propuestas si se cuenta con los usuarios y si se hace Design Thinking, en cualquier caso, esto no pudo ser así por falta de tiempo.
-
-
-
-<!-- Grupo 1 -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/b62d0383-e839-4cda-ae7f-49c16e7161bc" width="22%">
-  <img src="https://github.com/user-attachments/assets/8486f111-ea3d-4d3f-945f-734eecdbaeb2" width="22%">
-  <img src="https://github.com/user-attachments/assets/16a7dbed-affb-4ead-bbe0-73295f47ab1f" width="22%">
-  <img src="https://github.com/user-attachments/assets/aade1da9-771c-473d-aaf6-e1a5214c4173" width="22%">
-</p>
-
-<!-- Grupo 2 -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/1f0ac275-af42-4352-8ac6-111987fbe3f9" width="22%">
-  <img src="https://github.com/user-attachments/assets/2dd405bd-6a24-48b5-a40a-025f5e111411" width="22%">
-  <img src="https://github.com/user-attachments/assets/a277dbea-c9f6-48ba-990a-8bdcc526b2bf" width="22%">
-  <img src="https://github.com/user-attachments/assets/e31cf3ab-ea09-4c44-b285-6044c7a7953d" width="22%">
-</p>
-
-<!-- Grupo 3 -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/5bb86a3b-d3cf-415d-9536-a202d1b8d0e4" width="30%">
-  <img src="https://github.com/user-attachments/assets/6fdd4c69-ada6-444a-aef4-01682c341688" width="30%">
-</p>
-
-
-
