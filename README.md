@@ -98,7 +98,8 @@ A posteriori, he diseñado el prototipo a papel de la aplicación móvil donde s
 Después de realizar el prototipo a papel, lleve a cabo el Wireframe donde todos los elementos se  muestran de forma más profesional  y fidedigna con respecto al producto final.
 
 
-Finalmente, hice el Hi-Fi que muestro a continuación, las animaciones y todo el contenido se pueden ver en el siguiente enlace: Figma 
+Finalmente, hice el Hi-Fi que muestro a continuación, las animaciones y todo el contenido se pueden ver en el siguiente enlace: [Figma](https://www.figma.com/design/te0Ph2dXD9eDnbWpmLFFlk/Pr%C3%A1ctica-Final-DIU?node-id=0-1&t=r1eclwLDwI1Ko7VK-1)
+
 
 
 
